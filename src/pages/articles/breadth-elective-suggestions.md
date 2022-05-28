@@ -1,12 +1,13 @@
 ---
 title: Breadth Elective Suggestions for Computer Science Students
-description: My first blog post!
+description: A student currated list of Breadth Electives frequently taken by Computer Science Students.
 layout: ../../layouts/Article.astro
 url: articles/breadth-elective-suggestions
 last_updated: "Tuesday, July 27 2021"
+image: images/orientation2018.jpg
 ---
 
-![Image](https://courses.carletoncomputerscience.ca/images/orientation2018.jpeg)
+![Image](/images/orientation2018.jpg)
 
 ### Before you read
 
