@@ -1,0 +1,31 @@
+---
+import Base from "./Base.astro";
+
+const { content } = Astro.props;
+---
+
+<Base
+  metadata={{
+    title: content.title,
+    description: content.description,
+    url: content.url,
+    image: content.image,
+  }}
+>
+  <div class="article-layout">
+    <div class="article">
+      <div class="article-heading">
+        <h1>{content.title}</h1>
+        <p>Updated: {content.last_updated}</p>
+      </div>
+      <div class="article-body">
+        <slot />
+      </div>
+      <div class="article-footer">
+        © 2022, Provided by the <a href="https://ccss.carleton.ca/">
+          Carleton Computer Science Society</a
+        >
+      </div>
+    </div>
+  </div>
+</Base>

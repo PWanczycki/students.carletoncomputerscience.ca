@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "title": "Course Registration",
+    "description": "Course Registration",
+    "url": "course-registration",
+    "image": "/"
+  },
+  "sections":[
+     {
+        "title":"External",
+        "items":[
+           {
+              "title":"Undergrad Course Calendar",
+              "description":"The complete list of every program and every course currently offered at Carleton University.",
+              "url":"https://calendar.carleton.ca/undergrad/"
+           },
+           {
+              "title":"New Student Check-list",
+              "description":"A checklist for new Carleton Students including information on registering for courses.",
+              "url":"https://carleton.ca/registrar/registration/new-student-checklist/"
+           },
+           {
+              "title":"Dates and Deadlines",
+              "description":"A list of all upcoming academic calendar deadlines including course registration dates.",
+              "url":"https://carleton.ca/registrar/registration/dates/academic-dates/"
+           },
+           {
+              "title":"Time Tickets",
+              "description":"Your time ticket is the date and time that you can register for courses. Take a look at this page for all frequently asked questions about time-tickets.",
+              "url":"https://carleton.ca/registrar/registration/time-tickets/"
+           },
+           {
+              "title":"Planning your Term",
+              "description":"A guide for course registration regarding the value of credits and overloading your schedule.",
+              "url":"https://carleton.ca/cuknowhow/planning/"
+           },
+           {
+              "title":"Registration Steps",
+              "description":"A guide on how to navigate and build your time table in Carleton Central.",
+              "url":"https://carleton.ca/registrar/registration/registration-steps/"
+           },
+           {
+              "title":"Registration Video",
+              "description":"A video guide showing you how to navigate and build your time table in Carleton Central.",
+              "url":"https://carleton.ca/registrar/registration/cu-videos/registration-information-session/"
+           },
+           {
+              "title":"CGPA Info",
+              "description":"An explanation of how Carletons Cumulative Grade Point Average (CGPA) scale works.",
+              "url":"https://carleton.ca/academicadvising/cgpas/"
+           }
+        ]
+     }
+  ]
+}

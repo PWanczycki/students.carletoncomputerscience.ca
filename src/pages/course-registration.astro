@@ -1,0 +1,12 @@
+---
+import Base from "../layouts/Base.astro";
+import Navbar from "../components/Navbar.astro";
+
+import data from "../data/course-registration.json";
+
+let x = data.sections[0];
+---
+
+<Base metadata={data.metadata}>
+  <Navbar />
+</Base>
