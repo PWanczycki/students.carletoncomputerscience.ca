@@ -3,7 +3,7 @@ title: Breadth Elective Suggestions for Computer Science Students
 description: A student currated list of Breadth Electives frequently taken by Computer Science Students.
 layout: ../../layouts/Article.astro
 url: articles/breadth-elective-suggestions
-last_updated: "Tuesday, July 27 2021"
+last_updated: "Saturday, May 28 2022"
 image: images/orientation2018.jpg
 ---
 
@@ -19,19 +19,15 @@ When picking electives there are a few factors you should first consider.
 
 ### CGSC 1001: Mysteries of the Mind
 
-The reason why this course is frequently recommended by computer science students is because it touches upon a few computer science concepts at a high level. Jim Davies, a cross-disciplinary computer science and cognitive science professor frequently teaches this course, and often incorporates high level explanations of computer science and Artificial Intelligence concepts.
+This course is frequently recommended by computer science students because it touches upon some computer science concepts at a high level. Jim Davies, a cross-disciplinary computer science and cognitive science professor frequently teaches this course and often incorporates high level explanations of computer science and artificial intelligence concepts.
 
-The evaluations for this course consist of one short essay (about a page or so) and a few online multiple choice tests. What people often find difficult about this course is the “trickiness” of these multiple choice questions. A lot of these questions are often worded in such a way that the lectures will explain, but the lecture slides will not.
+In the past, the evaluations for this course consisted of one short essay (about a page or so) and a few online multiple choice tests. What people often find difficult about this course is the “trickiness” of these multiple choice questions. A lot of these questions are often worded in such a way that the lectures will explain, but the lecture slides will not.
 
 CGSC 1001 also has a lot of shared material with PSYC 1001 & 1002. If you enjoyed those courses, you will probably enjoy this course as well.
 
 ### PHIL 2001 & PHIL 2003
 
-PHIL 2001 covers and expands on the logical operators and boolean logic sections of COMP 1805. If you have taken COMP 1805 you will have an easy time initially in this course and will later learn a bunch of new tips and tricks for solving the proposition proof questions from COMP 1805.
-
-PHIL 2003 also covers similar COMP 1805 concepts. Many students consider PHIL 2003 easier than PHIL 2001.
-
-Both of these courses can be taken in first year, and do not require second year standing.
+PHIL 2001 covers and expands on the logical operators and boolean logic sections of COMP 1805. If you have taken COMP 1805, you will have an easy time initially in this course and will later learn a bunch of new tips and tricks for solving the proposition questions from COMP 1805. PHIL 2003 also covers similar COMP 1805 concepts. Many students consider PHIL 2003 easier than PHIL 2001 and both of these courses do not require second year standing.
 
 ### LING 1001 & LING 1100
 
@@ -49,6 +45,7 @@ Linguistics is a core part of natural language processing which is a subfield of
 - ECON 1001
 - ECON 1002
 - ERTH 1006
+- ERTH 1011
 - ERTH 2401
 - ERTH 2415
 - ERTH 2403
@@ -64,5 +61,8 @@ Linguistics is a core part of natural language processing which is a subfield of
 - PSYC 1002
 - SOCI 1001
 - TSES 2305
+- TSES 3001
+- TSES 3002
+- TSES 4008
 
 Want to write an explanation as to why you should take one of these courses? Are we missing an elective you would recommend to other students? Submit a pull request [here](https://github.com/CarletonComputerScienceSociety/courses-project/blob/master/content/articles/elective-suggestions.md)!
