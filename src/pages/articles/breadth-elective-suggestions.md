@@ -65,4 +65,4 @@ Linguistics is a core part of natural language processing which is a subfield of
 - TSES 3002
 - TSES 4008
 
-Want to write an explanation as to why you should take one of these courses? Are we missing an elective you would recommend to other students? Submit a pull request [here](https://github.com/CarletonComputerScienceSociety/courses-project/blob/master/content/articles/elective-suggestions.md)!
+Want to write an explanation as to why you should take one of these courses? Are we missing an elective you would recommend to other students? Submit a pull request [here](https://github.com/CarletonComputerScienceSociety/students.carletoncomputerscience.ca/blob/master/src/pages/articles/breadth-elective-suggestions.md)!
