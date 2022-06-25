@@ -3,7 +3,7 @@ title: Breadth Elective Suggestions for Computer Science Students
 description: A student currated list of Breadth Electives frequently taken by Computer Science Students.
 layout: ../../layouts/Article.astro
 url: articles/breadth-elective-suggestions
-last_updated: "Saturday, May 28 2022"
+last_updated: "Saturday, June 26th 2022"
 image: images/orientation2018.jpg
 ---
 
